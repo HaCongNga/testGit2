@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649150652 source:d:\programming\cpp project at class\testsdl\cargame\cargame\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
+1649150652 source:d:\programming\cpp project at class\cargame\cargame\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
